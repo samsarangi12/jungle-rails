@@ -27,6 +27,16 @@ main section.categories-show {
         display: block;
       }
 
+      header .product-status {
+        background-color: pink;
+        color: white;
+        float: left;
+        font-weight: bold;
+        padding: 10px;
+        border-top-left-radius: 5px;
+        border-bottom-right-radius: 10px;
+      }
+
       footer {
         position: absolute;
         bottom: 0;
